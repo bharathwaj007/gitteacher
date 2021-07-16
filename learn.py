@@ -24,6 +24,8 @@ def main():
     t.details()
     t.printer(20,30)
     #print("mama")
+for i in range(1,5):
+    print("8"*i)
 
 if __name__=="__main__":
     main()
